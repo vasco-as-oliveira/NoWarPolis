@@ -1,0 +1,2 @@
+PoIs visitados entre os tempos 140 e 195
+	PoI ID: 22

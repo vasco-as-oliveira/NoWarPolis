@@ -1,0 +1,1 @@
+id:222222;Username:John;Password:SouOJohn;Birthdate:1/2/2020;Vehicles:null;Node{id=1, coordinates=21.123-31.1233}

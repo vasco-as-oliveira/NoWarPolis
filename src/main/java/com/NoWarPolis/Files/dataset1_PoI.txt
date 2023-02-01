@@ -1,0 +1,11 @@
+10
+abastecimento,10,128564071
+semaforo,9,128564070
+semaforo,18,2486710610
+semaforo,2,128560437
+crossing,22,2486710615
+crossing,23,411834913
+abastecimento,21,8091600918
+stop_signal,26,8091578314
+stop_signal,22,2486710615
+semaforo,22,2486710615

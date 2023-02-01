@@ -1,0 +1,2 @@
+PoIs não visitados entre os tempos 9 e 10
+	PoI ID: 10	PoI ID: 9	PoI ID: 18	PoI ID: 2	PoI ID: 22	PoI ID: 23	PoI ID: 21	PoI ID: 26	PoI ID: 22	PoI ID: 22
